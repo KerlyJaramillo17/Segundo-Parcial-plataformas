@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  db:
+    image: mongo
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: plataforma
+      MONGO_INITDB_ROOT_PASSWORD: plataforma123
+    container_name: estudiantesdb
+    volumes:
+      - ./mongo-data:/data/db
