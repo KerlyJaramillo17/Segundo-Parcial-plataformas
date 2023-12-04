@@ -1,22 +1,22 @@
 ## Imagenes de que todo Funciona correctamente
 ## DockerHub y Github
-![](/img/Github.jpeg)
+![](./img/Github.jpeg)
 
-![](/img/Workflows-github.jpeg)
+![](./img/Workflows-github.jpeg)
 
-![](/img/Dockerhub.jpeg)
+![](./img/Dockerhub.jpeg)
 
 ## Relizando commit
-![](/img/commit.jpeg)
-![](/img/commit%20subido.jpeg)
+![](./img/commit.jpeg)
+![](./img/commit%20subido.jpeg)
 
 ## Verificanndo en Github-workflows
-![](/img/workflows-ejecutandose.jpeg)
-![](/img/workflows-correcto.jpeg)
+![](./img/workflows-ejecutandose.jpeg)
+![](./img/workflows-correcto.jpeg)
 
 ## Muestra de Actualizacion de version
-![](/img/Dockerhub-versionactualizada.jpeg)
-![](/img/evidencia-dockerhub.png)
+![](./img/Dockerhub-versionactualizada.jpeg)
+![](./img/evidencia-dockerhub.png)
 
 
 
